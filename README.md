@@ -7,5 +7,6 @@ Currently, two sorting algorithms have been implemented:
 * Bubble Sort
 * Insertion Sort
 
-![Screenshot](https://github.com/Atharva7007/Visualize-Bubblesort/blob/main/Screenshot/Bubblesort_in_action.png)
-![Screenshot](https://github.com/Atharva7007/Visualize-Bubblesort/blob/main/Screenshot/Menu.png)
+![Screenshot](https://github.com/Atharva7007/Visualize-Sorts/blob/main/Screenshot/Menu.png)
+![Screenshot](https://github.com/Atharva7007/Visualize-Sorts/blob/main/Screenshot/Bubblesort_in_action.png)
+
